@@ -12,3 +12,5 @@ To install requirements
 	run 'pip install -r requirements.txt' in command line
 
 __*I added this line.*__
+
+- fix-B
